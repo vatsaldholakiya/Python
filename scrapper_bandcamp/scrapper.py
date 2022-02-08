@@ -7,6 +7,7 @@ import time
 import pandas as pd
 
 
+
 driver = webdriver.Chrome(os.getcwd()+'/chromedriver')
 driver.maximize_window()
 driver.get('https://bandcamp.com')
