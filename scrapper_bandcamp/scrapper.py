@@ -22,6 +22,7 @@ titles = []
 artist = []
 genre = []
 
+
 print("disabled",nextPageLink.get_attribute("class").split()[-1]=='disabled')
 
 for page in range(0, totalPages):
