@@ -1,2 +1,2 @@
 # Python
-Repository for a set of python scripts and projects.
+a repository for a set of python scripts and projects.
